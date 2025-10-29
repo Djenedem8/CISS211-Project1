@@ -1,5 +1,5 @@
 import streamlit as st
-important pandas as pd
+import pandas as pd
 from datetime import datetime
 
 # Page Config
